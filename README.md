@@ -1,6 +1,5 @@
 # CLIP-AD: A Language-Guided Staged Dual-Path Model for Zero-shot Anomaly Detection
 
----
 [Xuhai Chen](https://bychelsea.github.io/xuhaichen.github.io/), [Jiangning Zhang](https://zhangzjn.github.io/), Guanzhong Tian, Haoyang He, Wuhao Zhang, Yabiao Wang, Chengjie Wang, Yong Liu
 
 This repository contains the official PyTorch implementation of the paper [CLIP-AD](https://arxiv.org/abs/2311.00453).
