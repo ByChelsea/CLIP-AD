@@ -142,3 +142,15 @@ Then run the following command
   ```shell
   test_SDP_plus.sh
   ```
+
+## Citation
+If our work is helpful for your research, please consider citing:
+
+```
+@article{chen2023clip,
+  title={Clip-ad: A language-guided staged dual-path model for zero-shot anomaly detection},
+  author={Chen, Xuhai and Zhang, Jiangning and Tian, Guanzhong and He, Haoyang and Zhang, Wuhao and Wang, Yabiao and Wang, Chengjie and Wu, Yunsheng and Liu, Yong},
+  journal={arXiv preprint arXiv:2311.00453},
+  year={2023}
+}
+```
