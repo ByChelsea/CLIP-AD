@@ -2,9 +2,9 @@
 
 [Xuhai Chen](https://bychelsea.github.io/xuhaichen.github.io/), [Jiangning Zhang](https://zhangzjn.github.io/), Guanzhong Tian, Haoyang He, Wuhao Zhang, Yabiao Wang, Chengjie Wang, Yong Liu
 
-This repository contains the official PyTorch implementation of the paper [CLIP-AD](https://arxiv.org/abs/2311.00453).
+This repository contains the official PyTorch implementation of the paper [CLIP-AD](https://arxiv.org/abs/2311.00453). This is an upgraded version of the method we proposed for the [competition](https://github.com/ByChelsea/VAND-APRIL-GAN).
 
-<img src="illustration/clipad.png" alt="Model Structure" style="max-width: 50px; height: auto;">
+<img src="illustration/clipad.png" alt="Qualitative comparisons" style="max-width: 50px; height: auto;">
 
 ## Installation
 
